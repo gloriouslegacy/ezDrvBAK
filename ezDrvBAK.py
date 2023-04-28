@@ -33,7 +33,7 @@ def do_restore(folder_selected):
         cmd = f'pnputil.exe -i -a "{inf_file}"'
         subprocess.run(cmd, shell=True)
     message.set('> 복원 완료')
-
+# 종료
 def on_closing():
     if messagebox.askokcancel("종료", "프로그램을 종료하시겠습니까?"):
         window.destroy()
