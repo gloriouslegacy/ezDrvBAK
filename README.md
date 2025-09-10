@@ -6,8 +6,6 @@
 
 ---
 ### Releases 2025-09-09
-## Ver 0.0.1.3
-
 ## [Ver 0.0.1.3](https://github.com/gloriouslegacy/ezDrvBAK/releases)
   
   ![ver 0.0.1.3](https://github.com/user-attachments/assets/b7aeced2-cf67-4cb9-a4df-00e8f7a0ad95)
