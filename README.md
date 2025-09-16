@@ -18,7 +18,3 @@
 
 ![image](https://github.com/gloriouslegacy/ezDrvBAK/assets/132028878/786ad17e-c798-4eab-b3ad-8ce607b9e893)
 
-<img width="960" alt="주석 2024-03-12 101223" src="https://github.com/gloriouslegacy/ezDrvBAK/assets/132028878/b18834b1-f005-4b6e-9566-db2f32c1a3e1">
-<img width="960" alt="주석 2024-03-12 101455" src="https://github.com/gloriouslegacy/ezDrvBAK/assets/132028878/6026e84c-bd24-4127-98d7-e3534dc5349c">
-<img width="960" alt="주석 2024-03-12 101721" src="https://github.com/gloriouslegacy/ezDrvBAK/assets/132028878/bd366f75-6b7c-4f4b-bf7d-876993f3aceb">
-<img width="960" alt="주석 2024-03-12 101805" src="https://github.com/gloriouslegacy/ezDrvBAK/assets/132028878/0167c802-6de9-4f24-9c5e-772a8496c41c">
