@@ -1,21 +1,3 @@
-<h1 align="left">Windows Driver Backup/Restore
-<br>
-  
-### Reference
-  
-- [Ms-Documents](https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/pnputil)
-
----
-### Releases 2025-09-09
-- [Ver 0.0.1.3](https://github.com/gloriouslegacy/ezDrvBAK/releases)
-
-  <img src="https://github.com/user-attachments/assets/b7aeced2-cf67-4cb9-a4df-00e8f7a0ad95" width="640" height="480"/>
-  
-  <img src="https://github.com/user-attachments/assets/88de140b-36fc-404b-a36b-df6058b954a7" width="640" height="480"/>
-
----
-
-
 md_content = """# Windows 드라이버 백업/복원 도구 (ezDrvBAK)
 
 ezDrvBAK.py는 **Windows 드라이버 백업/복원**을 위한 파이썬 스크립트입니다. `pnputil.exe` 명령어를 활용하여 시스템 드라이버를 백업하거나 복원하는 기능을 수행하며, Tkinter 라이브러리를 사용한 간단한 GUI를 제공합니다.
