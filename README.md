@@ -1,4 +1,4 @@
-md_content = """# Windows 드라이버 백업/복원 도구 (ezDrvBAK)
+"""# Windows 드라이버 백업/복원 도구 (ezDrvBAK)
 
 ezDrvBAK.py는 **Windows 드라이버 백업/복원**을 위한 파이썬 스크립트입니다. `pnputil.exe` 명령어를 활용하여 시스템 드라이버를 백업하거나 복원하는 기능을 수행하며, Tkinter 라이브러리를 사용한 간단한 GUI를 제공합니다.
 
@@ -25,10 +25,3 @@ ezDrvBAK.py는 **Windows 드라이버 백업/복원**을 위한 파이썬 스크
 4.  **프로그램 종료**:
     * **"종료"** 버튼을 클릭하거나 창의 닫기(X) 버튼을 클릭하여 프로그램을 종료합니다.
 """
-
-# ezDrvBAK.md 파일 생성 및 내용 작성
-with open("ezDrvBAK.md", "w", encoding="utf-8") as f:
-    f.write(md_content)
-
-print("ezDrvBAK.md 파일이 성공적으로 생성되었습니다.")
-
